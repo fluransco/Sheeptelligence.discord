@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Sheeptelligence - A Gitcoin Grant Project</title>
+  Sheeptelligence - a cybernetic extended augmented intelligence
 </head>
 <body>
   <header>
     <h1>Sheeptelligence</h1>
-    <p>An Innovative Gitcoin Grant Project</p>
+    <p>a cybernetic extended augmented intelligence</p>
   </header>
 
   <section>
